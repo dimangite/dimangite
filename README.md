@@ -21,7 +21,10 @@
 <a href="https://stackoverflow.com/users/11760923/dimang">
   <img align="left" alt="Stackoverflow Icon" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/stackoverflow.svg" />
 </a>
+<a href="https://www.freecodecamp.org/dimang">
+  <img align="left" alt="freeCodeCamp Icon" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/freecodecamp.svg" />
 <br>
+</a>
 <hr>   
                                                                                                                        
                                                                                                                        
