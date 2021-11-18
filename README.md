@@ -3,7 +3,7 @@
 <a href="https://kr.linkedin.com/in/dimangchhol">
   <img align="left" alt="Linkedin Icon" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg" />
 </a>
-<a href="https://medium.com/@dimangchhol">
+<a href="https://dimangchhol.medium.com/">
   <img align="left" alt="Medium Icon" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/medium.svg" />
 </a>
 <a href="https://github.com/dimangite/">
