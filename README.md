@@ -9,6 +9,9 @@
 <a href="https://www.kaggle.com/dimangite">
   <img align="left" alt="Kaggle Icon" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/kaggle.svg" />
 </a>
+<a href="https://medium.com/@dimangchhol">
+  <img align="left" alt="Medium Icon" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/medium.svg" />
+</a>
 <a href="https://www.researchgate.net/profile/Dimang-Chhol">
   <img align="left" alt="ResearchGate Icon" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/researchgate.svg" />
 </a>
