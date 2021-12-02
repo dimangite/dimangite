@@ -1,5 +1,8 @@
 ### Hi there 👋 My name is Dimang
 
+<a href="https://orcid.org/0000-0002-2650-7569">
+  <img align="left" alt="ORCID Icon" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/orcid.svg" />
+</a>
 <a href="https://kr.linkedin.com/in/dimangchhol">
   <img align="left" alt="Linkedin Icon" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg" />
 </a>
