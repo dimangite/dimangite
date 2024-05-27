@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Dimang
+### My name is Dimang
 
 <br>
 <hr>   
