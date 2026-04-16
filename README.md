@@ -9,7 +9,7 @@ CS PhD student working on machine learning for predictive modeling and reproduci
 - Python-based research engineering
 
 ## Tech stack
-Python, PyTorch, scikit-learn, pandas, Jupyter, Git, Linux/WSL, LaTeX
+Python, PyTorch, scikit-learn, pandas, Jupyter, Git, Linux/WSL
 
 ## Selected work
 - Portfolio website: [dimangite.github.io](https://dimangite.github.io)
