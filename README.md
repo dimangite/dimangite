@@ -1,5 +1,3 @@
-# Dimang Chhol
-
 CS PhD (Chungbuk National University). Research in deep learning for predictive modeling, with an emphasis on reproducible experimentation and rigorous empirical evaluation.
 
 ## Research interests
